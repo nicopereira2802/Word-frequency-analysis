@@ -1,0 +1,12 @@
+WORD            | FREQUENCY 
+------------------------------
+el              | 10        
+un              | 5         
+los             | 4         
+la              | 4         
+en              | 3         
+del             | 3         
+una             | 3         
+de              | 3         
+niño            | 3         
+palabra         | 3         
